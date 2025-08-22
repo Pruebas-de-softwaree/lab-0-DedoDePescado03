@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print(f"El resultado de a + b = {add('a', 'b')}")
+    print(f"El resultado de a + b = {subtract('a', 'b')}")
 
     print("end test")
 
