@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print(f"El resultado de a + b = {square_root(-3)}")
+    print(f"El resultado de avg = {average([5,5,5,5,'a'])}")
 
     print("end test")
 
