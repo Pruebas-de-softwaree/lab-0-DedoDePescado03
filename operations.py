@@ -29,8 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print(f"El resultado de a + b = {multiply('a', 2)}")
-    print(f"El resultado de a + b = {multiply('a', 'b')}")
+    print(f"El resultado de a + b = {power(1, 'a')}")
 
     print("end test")
 
