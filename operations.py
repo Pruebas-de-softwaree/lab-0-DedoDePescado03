@@ -29,7 +29,8 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print(f"El resultado de avg = {average([5,5,5,5,'a'])}")
+    print(f"El resultado de avg = {maximum([5,5,5,5,6])}")
+    print(f"El resultado de avg = {maximum([5,5,5,5,'a'])}")
 
     print("end test")
 
